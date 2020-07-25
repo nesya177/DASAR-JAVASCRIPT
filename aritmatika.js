@@ -1,0 +1,10 @@
+var a = 12;
+var b = 6;
+console.log("Masukkan Nilai a:" +12) ;
+console.log("Masukkan Nilai b:" +6) ;
+console.log(`${a}+${b}=${a+b}`);
+console.log(`${a}-${b}=${a-b}`);
+console.log(`${a}*${b}=${a*b}`);
+console.log(`${a}/${b}=${a/b}`);
+console.log(`${a}%${b}=${a%b}`);
+console.log(`${a}**${b}=${a**b}`);
